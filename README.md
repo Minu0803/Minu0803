@@ -17,7 +17,7 @@ I'm a passionate student and aspiring developer currently working on exciting pr
 
 ### Let's Connect 🤝
 [![Instagram](https://img.shields.io/badge/-Instagram-purple)](https://www.instagram.com/Minuffy)
-[![Email](https://img.shields.io/badge/-Naver-Email-green)](mailto:calvin08@naver.com)
+[![Email](https://img.shields.io/badge/-Naver_Email-green)](mailto:calvin08@naver.com)
 [![Email](https://img.shields.io/badge/Gmail-blue)](mailto:calvin0803@gmail.com)
 
 ### My Skills 💻
