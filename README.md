@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Minu!
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/[YourNotionLink](https://receptive-muscari-3cf.notion.site/10a6538f55f680e0872bc6aaf50055bc?pvs=4))
+Korean Profile : [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/[YourNotionLink](https://receptive-muscari-3cf.notion.site/10a6538f55f680e0872bc6aaf50055bc?pvs=4))
+
+
 I'm a passionate student and aspiring developer currently working on exciting projects. Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on **PerfectFit 자소서**, a project aimed at creating a more efficient resume-building tool.
