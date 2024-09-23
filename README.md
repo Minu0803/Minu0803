@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Minuffy&fontSize=90&fontAlign=75&rotate=10)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Minuffy&fontSize=90&fontAlign=75&rotate=12)
 
 
 ## Hi there 👋 I'm Minu!
