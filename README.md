@@ -46,5 +46,5 @@ I'm a passionate student and aspiring developer currently working on exciting pr
 
 ### My Projects 🖥
 **Peojulgae**. You can find more details about it [here](https://receptive-muscari-3cf.notion.site/Peojugae-10a6538f55f68074993ae8c929847994?pvs=4).
-
+**Food Sharing**. You can find more details about it [here](https://receptive-muscari-3cf.notion.site/TERM-10a6538f55f6800dbc6dc6bde7c2806f?pvs=4).
 Thanks for stopping by! 😊
