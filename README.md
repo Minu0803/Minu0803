@@ -24,5 +24,6 @@ I'm a passionate student and aspiring developer currently working on exciting pr
 
 ### My Skills 💻
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![IOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 Thanks for stopping by! 😊
