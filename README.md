@@ -17,8 +17,8 @@ I'm a passionate student and aspiring developer currently working on exciting pr
 
 ### Let's Connect 🤝
 [![Instagram](https://img.shields.io/badge/-Instagram-purple)](https://www.instagram.com/Minuffy)
-[![Email](https://img.shields.io/badge/-Email-red)](mailto:calvin08@naver.com)
-[![Email](https://img.shields.io/badge/-Email-red)](mailto:calvin0803@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-green)](mailto:calvin08@naver.com)
+[![Email](https://img.shields.io/badge/-Email-blue)](mailto:calvin0803@gmail.com)
 
 ### My Skills 💻
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -29,6 +29,7 @@ I'm a passionate student and aspiring developer currently working on exciting pr
 ### Languages I Use 🖥
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
