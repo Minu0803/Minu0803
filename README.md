@@ -1,15 +1,10 @@
 ## Hi there 👋 I'm Minu!
 [Korean Ver. 한국어 버전은 여기를 클릭하세요! ](https://receptive-muscari-3cf.notion.site/10a6538f55f680e0872bc6aaf50055bc?pvs=4)
 
+My name is Minu Kim, and I am an upcoming graduate from the Software Engineering department at Seoil University. I am currently preparing to become a backend developer!
 
-I'm a passionate student and aspiring developer currently working on exciting projects. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on **PerfectFit 자소서**, a project aimed at creating a more efficient resume-building tool.
-- 🌱 I’m currently learning **machine learning**, **data analysis**, and exploring **open-source contributions**.
-- 👯 I’m looking to collaborate on innovative tech projects, especially in AI, web development, and app development.
-- 🤔 I’m looking for help with improving my skills in **backend development** and scaling web applications.
-- 💬 Ask me about anything! I'm happy to share my knowledge in **Python**, **Java**, and **AI**.
-- ⚡ Fun fact: When I’m not coding, you can find me cycling or playing badminton enthusiastically!
+
 ### GitHub Stats 📊
 ![Minu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minu0803&show_icons=true&theme=radical)
 
