@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Minu!
-[한국어 버전 입니다! ](https://receptive-muscari-3cf.notion.site/10a6538f55f680e0872bc6aaf50055bc?pvs=4)
+[Korean Ver. 한국어 버전입니다! ](https://receptive-muscari-3cf.notion.site/10a6538f55f680e0872bc6aaf50055bc?pvs=4)
 
 
 I'm a passionate student and aspiring developer currently working on exciting projects. Welcome to my GitHub profile!
