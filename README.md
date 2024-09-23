@@ -6,7 +6,7 @@ I'm a passionate student and aspiring developer currently working on exciting pr
 - 🌱 I’m currently learning **machine learning**, **data analysis**, and exploring **open-source contributions**.
 - 👯 I’m looking to collaborate on innovative tech projects, especially in AI, web development, and app development.
 - 🤔 I’m looking for help with improving my skills in **backend development** and scaling web applications.
-- 💬 Ask me about anything! I'm happy to share my knowledge in Python, Java, and AI
+- 💬 Ask me about anything! I'm happy to share my knowledge in **Python**, **Java**, and **AI**.
 - ⚡ Fun fact: When I’m not coding, you can find me experimenting with new recipes or exploring the outdoors!
 
 ### GitHub Stats 📊
@@ -25,5 +25,13 @@ I'm a passionate student and aspiring developer currently working on exciting pr
 ![IOS](https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### Languages I Use 🖥
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 Thanks for stopping by! 😊
