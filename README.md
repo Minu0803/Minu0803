@@ -47,4 +47,6 @@ My name is Minwoo Kim, and I am an upcoming graduate from the Software Engineeri
 
 **Food Sharing**. You can find more details about it [here](https://receptive-muscari-3cf.notion.site/TERM-10a6538f55f6800dbc6dc6bde7c2806f?pvs=4).
 
+![Visitor Badge](https://komarev.com/ghpvc/?username=Minu0803&label=PROFILE+VIEWS&style=flat-square&color=blue)
+
 Thanks for stopping by! 😊
