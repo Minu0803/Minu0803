@@ -6,8 +6,8 @@ I'm a passionate student and aspiring developer currently working on exciting pr
 - 🌱 I’m currently learning **machine learning**, **data analysis**, and exploring **open-source contributions**.
 - 👯 I’m looking to collaborate on innovative tech projects, especially in AI, web development, and app development.
 - 🤔 I’m looking for help with improving my skills in **backend development** and scaling web applications.
-- 💬 Ask me about anything! I'm happy to share my knowledge in **Python**, **JavaScript**, and **data science**.
-- 📫 How to reach me: [Your Email] | [LinkedIn Profile]
+- 💬 Ask me about anything! I'm happy to share my knowledge in Python, Java, and AI
+
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I’m not coding, you can find me experimenting with new recipes or exploring the outdoors!
 
