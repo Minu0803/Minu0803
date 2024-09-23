@@ -1,4 +1,4 @@
-[header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule&fontSize=90)
+[![header](https://capsule-render.vercel.app/api?type=wave&color=skyblue&height=300&section=header&text=Minuffy&fontSize=90)](https://github.com/Minu0803)
 
 ## Hi there 👋 I'm Minu!
 [Korean Ver. 한국어 버전은 여기를 클릭하세요! ](https://receptive-muscari-3cf.notion.site/10a6538f55f680e0872bc6aaf50055bc?pvs=4)
