@@ -18,7 +18,8 @@ I'm a passionate student and aspiring developer currently working on exciting pr
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minu0803&layout=compact&theme=radical)
 
 ### Let's Connect 🤝
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-red)](mailto:youremail@example.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple)](https://www.instagram.com/Minuffy)
+[![Email](https://img.shields.io/badge/-Email-red)](mailto:calvin08@naver.com)
+[![Email](https://img.shields.io/badge/-Email-red)](mailto:calvin0803@gmail.com)
 
 Thanks for stopping by! 😊
