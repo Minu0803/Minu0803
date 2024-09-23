@@ -7,8 +7,7 @@ I'm a passionate student and aspiring developer currently working on exciting pr
 - 👯 I’m looking to collaborate on innovative tech projects, especially in AI, web development, and app development.
 - 🤔 I’m looking for help with improving my skills in **backend development** and scaling web applications.
 - 💬 Ask me about anything! I'm happy to share my knowledge in **Python**, **Java**, and **AI**.
-- ⚡ Fun fact: When I’m not coding, you can find me experimenting with new recipes or exploring the outdoors!
-
+- ⚡ Fun fact: When I’m not coding, you can find me cycling or playing badminton enthusiastically!
 ### GitHub Stats 📊
 ![Minu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minu0803&show_icons=true&theme=radical)
 
