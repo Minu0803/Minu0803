@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋 I'm Minu!
 
-<!--
-**Minu0803/Minu0803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate student and aspiring developer currently working on exciting projects. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **PerfectFit 자소서**, a project aimed at creating a more efficient resume-building tool.
+- 🌱 I’m currently learning **machine learning**, **data analysis**, and exploring **open-source contributions**.
+- 👯 I’m looking to collaborate on innovative tech projects, especially in AI, web development, and app development.
+- 🤔 I’m looking for help with improving my skills in **backend development** and scaling web applications.
+- 💬 Ask me about anything! I'm happy to share my knowledge in **Python**, **JavaScript**, and **data science**.
+- 📫 How to reach me: [Your Email] | [LinkedIn Profile]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: When I’m not coding, you can find me experimenting with new recipes or exploring the outdoors!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats 📊
+![Minu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minu0803&show_icons=true&theme=radical)
+
+### Top Languages 🛠
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minu0803&layout=compact&theme=radical)
+
+### Let's Connect 🤝
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/-Email-red)](mailto:youremail@example.com)
+
+Thanks for stopping by! 😊
