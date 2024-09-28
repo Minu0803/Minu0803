@@ -2,7 +2,7 @@
 
 
 ## Hi there 👋 I'm Minu!
-[Korean Ver. 한국어 버전은 여기를 클릭하세요! ](https://receptive-muscari-3cf.notion.site/10a6538f55f680e0872bc6aaf50055bc?pvs=4)
+**My Development Blog**. Visit my blog [here](https://calvin08.tistory.com/).
 
 My name is Minwoo Kim, and I am an upcoming graduate from the Software Engineering department at Seoil University. I am currently preparing to become a backend developer!
 
