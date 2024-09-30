@@ -50,6 +50,8 @@ My name is Minwoo Kim, and I am an upcoming graduate from the Software Engineeri
 
 **PerfectFit**. You can find more details about it [here](https://receptive-muscari-3cf.notion.site/Perfect-Fit-Project-1076538f55f680ecbfdcf5be768e0adb?pvs=4).
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=Minu0803&label=PROFILE+VIEWS&style=flat-square&color=blue)
+### My Study 📘
+You can check out my AI study notes [here](https://receptive-muscari-3cf.notion.site/2d52688eb6734e948a6eaecaad88ac4b?pvs=4).
+You can check out my Spring study notes [here](https://receptive-muscari-3cf.notion.site/Spring-f39e0c7ed4234ef9a7f0a11e479751bd?pvs=4).
 
 Thanks for stopping by! 😊
