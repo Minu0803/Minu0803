@@ -47,9 +47,9 @@ My name is Minwoo Kim, and I am an upcoming graduate from the Software Engineeri
 ### My Projects 🖥
 **Peojulgae**. You can find more details about it [here](https://receptive-muscari-3cf.notion.site/Peojugae-10a6538f55f68074993ae8c929847994?pvs=4). check the code on [GitHub](https://github.com/Minu0803/Peojulgae)
 
-**Food Sharing**. You can find more details about it [here](https://receptive-muscari-3cf.notion.site/TERM-10a6538f55f6800dbc6dc6bde7c2806f?pvs=4).
+**PerfectFit**. You can find more details about it [here](https://receptive-muscari-3cf.notion.site/Perfect-Fit-Project-1076538f55f680ecbfdcf5be768e0adb?pvs=4). Check the code on [GitHub](https://github.com/7-wonders/PerfectFit).
 
-**PerfectFit**. You can find more details about it [here](https://receptive-muscari-3cf.notion.site/Perfect-Fit-Project-1076538f55f680ecbfdcf5be768e0adb?pvs=4).
+**Food Sharing**. You can find more details about it [here](https://receptive-muscari-3cf.notion.site/TERM-10a6538f55f6800dbc6dc6bde7c2806f?pvs=4).
 
 ### My Study 📘
 Check out my AI study notes [here](https://receptive-muscari-3cf.notion.site/2d52688eb6734e948a6eaecaad88ac4b?pvs=4).
