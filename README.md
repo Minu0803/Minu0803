@@ -6,6 +6,24 @@
 
 My name is Minwoo Kim, and I am an upcoming graduate from the Software Engineering department at Seoil University. I am currently preparing to become a backend developer!
 
+### 📌 My Projects 🖥
+**[Peojulgae](https://receptive-muscari-3cf.notion.site/Peojugae-10a6538f55f68074993ae8c929847994?pvs=4)**  
+Check the code on [GitHub](https://github.com/Minu0803/Peojulgae).
+
+**[PerfectFit](https://receptive-muscari-3cf.notion.site/Perfect-Fit-Project-1076538f55f680ecbfdcf5be768e0adb?pvs=4)**  
+Check the code on [GitHub](https://github.com/7-wonders/PerfectFit).
+
+**[Food Sharing](https://receptive-muscari-3cf.notion.site/TERM-10a6538f55f6800dbc6dc6bde7c2806f?pvs=4)**  
+Find more details about the project.
+
+---
+
+### 📘 My Study Notes
+**[AI Study Notes](https://receptive-muscari-3cf.notion.site/2d52688eb6734e948a6eaecaad88ac4b?pvs=4)**  
+In-depth notes on artificial intelligence concepts.
+
+**[Spring Study Notes](https://receptive-muscari-3cf.notion.site/Spring-f39e0c7ed4234ef9a7f0a11e479751bd?pvs=4)**  
+Comprehensive notes on Spring Framework.
 
 
 ### GitHub Stats 📊
@@ -53,23 +71,5 @@ My name is Minwoo Kim, and I am an upcoming graduate from the Software Engineeri
 ![MFC](https://img.shields.io/badge/MFC-007396?style=for-the-badge&logo=windows&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📌 My Projects 🖥
-**[Peojulgae](https://receptive-muscari-3cf.notion.site/Peojugae-10a6538f55f68074993ae8c929847994?pvs=4)**  
-Check the code on [GitHub](https://github.com/Minu0803/Peojulgae).
-
-**[PerfectFit](https://receptive-muscari-3cf.notion.site/Perfect-Fit-Project-1076538f55f680ecbfdcf5be768e0adb?pvs=4)**  
-Check the code on [GitHub](https://github.com/7-wonders/PerfectFit).
-
-**[Food Sharing](https://receptive-muscari-3cf.notion.site/TERM-10a6538f55f6800dbc6dc6bde7c2806f?pvs=4)**  
-Find more details about the project.
-
----
-
-### 📘 My Study Notes
-**[AI Study Notes](https://receptive-muscari-3cf.notion.site/2d52688eb6734e948a6eaecaad88ac4b?pvs=4)**  
-In-depth notes on artificial intelligence concepts.
-
-**[Spring Study Notes](https://receptive-muscari-3cf.notion.site/Spring-f39e0c7ed4234ef9a7f0a11e479751bd?pvs=4)**  
-Comprehensive notes on Spring Framework.
 
 Thanks for stopping by! 😊
