@@ -23,6 +23,8 @@ My name is Minwoo Kim, and I am an upcoming graduate from the Software Engineeri
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Minu0803&label=PROFILE+VIEWS&style=flat-square&color=blue)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Minu0803&theme=radical)](https://git.io/streak-stats)
+
 ### My Skills 💻
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![IOS](https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=apple&logoColor=white)
