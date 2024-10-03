@@ -16,9 +16,6 @@ My name is Minwoo Kim, and I am an upcoming graduate from the Software Engineeri
 [![trophy](https://github-profile-trophy.vercel.app/?username=Minu0803&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-### Top Languages 🛠
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minu0803&layout=compact&theme=radical)
-
 ### Let's Connect 🤝
 [![Instagram](https://img.shields.io/badge/-Instagram-purple)](https://www.instagram.com/Minuffy)
 [![Email](https://img.shields.io/badge/-Naver_Email-green)](mailto:calvin08@naver.com)
@@ -43,6 +40,11 @@ My name is Minwoo Kim, and I am an upcoming graduate from the Software Engineeri
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+
+
+### Top Languages 🛠
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minu0803&layout=compact&theme=radical)
+
 
 ### Languages I've Tried 🛠
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
