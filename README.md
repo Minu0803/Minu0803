@@ -11,8 +11,6 @@ My name is Minwoo Kim, and I am an upcoming graduate from the Software Engineeri
 ### GitHub Stats 📊
 ![Minu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minu0803&show_icons=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Minu0803&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### Top Languages 🛠
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minu0803&layout=compact&theme=radical)
 
