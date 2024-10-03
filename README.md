@@ -16,15 +16,15 @@ Check the code on [GitHub](https://github.com/7-wonders/PerfectFit).
 You can also read my research Notion [here](https://www.notion.so/Perfect-Fit-Project-1076538f55f680ecbfdcf5be768e0adb?pvs=4).
 
 **[Food Sharing](https://www.notion.so/TERM-10a6538f55f6800dbc6dc6bde7c2806f?pvs=4)**  
-Find more details about the project.
+Find more details about the project [here](https://www.notion.so/TERM-10a6538f55f6800dbc6dc6bde7c2806f?pvs=4).
 
 ---
 
 ### 📘 My Study Notes
-**[AI Study Notes](https://receptive-muscari-3cf.notion.site/2d52688eb6734e948a6eaecaad88ac4b?pvs=4)**  
+**[AI Study Notes](https://www.notion.so/AI-7556ef72c38d427587b227a9f6fe6704?pvs=4)**  
 In-depth notes on artificial intelligence concepts.
 
-**[Spring Study Notes](https://receptive-muscari-3cf.notion.site/Spring-f39e0c7ed4234ef9a7f0a11e479751bd?pvs=4)**  
+**[Spring Study Notes](https://www.notion.so/Spring-f39e0c7ed4234ef9a7f0a11e479751bd?pvs=4)**  
 Comprehensive notes on Spring Framework.
 
 
