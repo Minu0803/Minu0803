@@ -27,6 +27,10 @@ In-depth notes on artificial intelligence concepts.
 **[Spring Study Notes](https://www.notion.so/Spring-f39e0c7ed4234ef9a7f0a11e479751bd?pvs=4)**  
 Comprehensive notes on Spring Framework.
 
+**[AI Class Journal](https://www.notion.so/2d52688eb6734e948a6eaecaad88ac4b?pvs=4)**  
+It's an ai class note
+
+
 
 ### GitHub Stats 📊
 ![Minu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minu0803&show_icons=true&theme=radical)
