@@ -19,6 +19,8 @@ My name is Minwoo Kim, and I am an upcoming graduate from the Software Engineeri
 [![Email](https://img.shields.io/badge/-Naver_Email-green)](mailto:calvin08@naver.com)
 [![Email](https://img.shields.io/badge/Gmail-blue)](mailto:calvin0803@gmail.com)
 
+![Visitor Badge](https://komarev.com/ghpvc/?username=Minu0803&label=PROFILE+VIEWS&style=flat-square&color=blue)
+
 ### My Skills 💻
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![IOS](https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=apple&logoColor=white)
