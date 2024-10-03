@@ -11,6 +11,10 @@ My name is Minwoo Kim, and I am an upcoming graduate from the Software Engineeri
 ### GitHub Stats 📊
 ![Minu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minu0803&show_icons=true&theme=radical)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Minu0803&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Minu0803&theme=radical)](https://git.io/streak-stats)
+
 ### Top Languages 🛠
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minu0803&layout=compact&theme=radical)
 
@@ -20,8 +24,6 @@ My name is Minwoo Kim, and I am an upcoming graduate from the Software Engineeri
 [![Email](https://img.shields.io/badge/Gmail-blue)](mailto:calvin0803@gmail.com)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Minu0803&label=PROFILE+VIEWS&style=flat-square&color=blue)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Minu0803&theme=radical)](https://git.io/streak-stats)
 
 ### My Skills 💻
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
