@@ -13,7 +13,7 @@ You can also read my research Notion [here](https://www.notion.so/Peojugae-10a65
 
 **[PerfectFit](https://www.notion.so/Perfect-Fit-Project-1076538f55f680ecbfdcf5be768e0adb?pvs=4)**  
 Check the code on [GitHub](https://github.com/7-wonders/PerfectFit).  
-You can also read my research Notion [here](https://www.notion.so/Perfect-Fit-Project-1076538f55f680ecbfdcf5be768e0adb?pvs=4).
+You can also read my research Notion [here](https://www.notion.so/Web-Programming-Project-16711902147648b8a96a3e829acc372b?pvs=4).
 
 **[Miffy Space Shooting Game](https://github.com/Minu0803/MiffyShootingGame)**  
 Check the code on [GitHub](https://github.com/Minu0803/MiffyShootingGame).
