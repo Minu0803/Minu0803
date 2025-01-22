@@ -7,11 +7,11 @@
 My name is Minwoo Kim, and I am an upcoming graduate from the Software Engineering department at Seoil University. I am currently preparing to become a backend developer!
 
 ### 📌 My Projects 🖥
-**[Peojulgae](https://www.notion.so/Peojugae-10a6538f55f68074993ae8c929847994?pvs=4)**  
+**[Peojulgae (Android APP)](https://www.notion.so/Peojugae-10a6538f55f68074993ae8c929847994?pvs=4)**  
 Check the code on [GitHub](https://github.com/Minu0803/Peojulgae).  
 You can also read my research Notion [here](https://www.notion.so/Peojugae-10a6538f55f68074993ae8c929847994?pvs=4).
 
-**[PerfectFit](https://www.notion.so/Perfect-Fit-Project-1076538f55f680ecbfdcf5be768e0adb?pvs=4)**  
+**[PerfectFit (Web) ](https://www.notion.so/Perfect-Fit-Project-1076538f55f680ecbfdcf5be768e0adb?pvs=4)**  
 Check the code on [GitHub](https://github.com/7-wonders/PerfectFit).  
 You can also read my research Notion [here](https://www.notion.so/Web-Programming-Project-16711902147648b8a96a3e829acc372b?pvs=4).
 
