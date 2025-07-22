@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Minuffy&fontSize=90&fontAlign=75&rotate=9)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Minuffy&fontSize=80&fontAlign=center&fontColor=ffffff&desc=Junior%20Developer%20Minwoo%20Kim&descAlign=center&descSize=20&animation=fadeIn&fontAlignY=40)
+
 
 
 ## Hi there 👋 I'm Minu!
