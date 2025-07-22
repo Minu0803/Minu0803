@@ -55,8 +55,4 @@ Find more details about the project [here](https://www.notion.so/TERM-10a6538f55
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Minu0803&label=PROFILE+VIEWS&style=flat-square&color=blue)
 
-### Top Languages 🛠
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minu0803&layout=compact&theme=radical)
-
-
 Thanks for stopping by! 😊
