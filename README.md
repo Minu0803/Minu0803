@@ -14,6 +14,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 
+### Languages I've Tried 🛠
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
+![MFC](https://img.shields.io/badge/MFC-007396?style=for-the-badge&logo=windows&logoColor=white)
+
 ### 📌 My Projects 🖥
 **[Peojulgae (Android APP)](https://github.com/Minu0803/Peojulgae)**  
 Check the code on [GitHub](https://github.com/Minu0803/Peojulgae).  
@@ -52,12 +57,6 @@ Find more details about the project [here](https://www.notion.so/TERM-10a6538f55
 
 ### Top Languages 🛠
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minu0803&layout=compact&theme=radical)
-
-### Languages I've Tried 🛠
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Visual Basic](https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
-![MFC](https://img.shields.io/badge/MFC-007396?style=for-the-badge&logo=windows&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 Thanks for stopping by! 😊
