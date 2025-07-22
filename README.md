@@ -4,6 +4,15 @@
 
 ## Hi there 👋 I'm Minu!
 
+### My Skills 💻
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### 📌 My Projects 🖥
 **[Peojulgae (Android APP)](https://github.com/Minu0803/Peojulgae)**  
@@ -26,18 +35,6 @@ Find more details about the project [here](https://www.notion.so/TERM-10a6538f55
 
 ---
 
-### 📘 My Study Notes
-**[AI Study Notes](https://www.notion.so/AI-7556ef72c38d427587b227a9f6fe6704?pvs=4)**  
-In-depth notes on artificial intelligence concepts.
-
-**[Spring Study Notes](https://www.notion.so/Spring-f39e0c7ed4234ef9a7f0a11e479751bd?pvs=4)**  
-Comprehensive notes on Spring Framework.
-
-**[AI Class Journal](https://www.notion.so/2d52688eb6734e948a6eaecaad88ac4b?pvs=4)**  
-It's an ai class note
-
-
-
 ### GitHub Stats 📊
 ![Minu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minu0803&show_icons=true&theme=radical)
 
@@ -52,25 +49,6 @@ It's an ai class note
 [![Email](https://img.shields.io/badge/Gmail-blue)](mailto:calvin0803@gmail.com)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Minu0803&label=PROFILE+VIEWS&style=flat-square&color=blue)
-
-### My Skills 💻
-![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![IOS](https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Languages I Use 🖥
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Top Languages 🛠
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minu0803&layout=compact&theme=radical)
