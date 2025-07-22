@@ -3,9 +3,7 @@
 
 
 ## Hi there 👋 I'm Minu!
-**My Development Blog For MAC Beginners**. Visit my blog [here](https://calvin08.tistory.com/).
 
-My name is Minwoo Kim, and I am an upcoming graduate from the Software Engineering department at Seoil University. I am currently preparing to become a backend developer!
 
 ### 📌 My Projects 🖥
 **[Peojulgae (Android APP)](https://github.com/Minu0803/Peojulgae)**  
