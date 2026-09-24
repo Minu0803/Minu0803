@@ -8,6 +8,8 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Nexacro](https://img.shields.io/badge/Nexacro-007396?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -15,9 +17,8 @@
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### Languages I've Tried 🛠
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Visual Basic](https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
-![MFC](https://img.shields.io/badge/MFC-007396?style=for-the-badge&logo=windows&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 📌 My Projects 🖥
 **[Peojulgae (Android APP)](https://github.com/Minu0803/Peojulgae)**  
@@ -31,6 +32,12 @@ You can also read my research Notion [here](https://www.notion.so/Web-Programmin
 **[MinuOffice (C# MVVM WPF) ](https://github.com/Minu0803/MinuOffice)**  
 Check the code on [GitHub](https://github.com/Minu0803/MinuOffice).  
 You can also read my research Notion [here](https://receptive-muscari-3cf.notion.site/Minu-Office-2386538f55f6806e90accfa5b5aeee07).
+
+**[Jangbogi (Kotlin)](https://github.com/Minu0803/Jangbogi)**\
+Check the code on [GitHub](https://github.com/Minu0803/Jangbogi).
+
+**[DiffDesk (Code Comparison App)](https://github.com/Minu0803/DiffDesk)**\
+Check the code on [GitHub](https://github.com/Minu0803/DiffDesk).
 
 **[Miffy Space Shooting Game](https://github.com/Minu0803/MiffyShootingGame)**  
 Check the code on [GitHub](https://github.com/Minu0803/MiffyShootingGame).
