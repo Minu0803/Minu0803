@@ -33,11 +33,11 @@ You can also read my research Notion [here](https://www.notion.so/Web-Programmin
 Check the code on [GitHub](https://github.com/Minu0803/MinuOffice).  
 You can also read my research Notion [here](https://receptive-muscari-3cf.notion.site/Minu-Office-2386538f55f6806e90accfa5b5aeee07).
 
-**[Jangbogi (Kotlin)](https://github.com/Minu0803/Jangbogi)**\
-Check the code on [GitHub](https://github.com/Minu0803/Jangbogi).
-
 **[DiffDesk (Code Comparison App)](https://github.com/Minu0803/DiffDesk)**\
 Check the code on [GitHub](https://github.com/Minu0803/DiffDesk).
+
+**[Jangbogi (Android APP)](https://github.com/Minu0803/Jangbogi)**\
+Check the code on [GitHub](https://github.com/Minu0803/Jangbogi).
 
 **[Miffy Space Shooting Game](https://github.com/Minu0803/MiffyShootingGame)**  
 Check the code on [GitHub](https://github.com/Minu0803/MiffyShootingGame).
@@ -48,11 +48,8 @@ Find more details about the project [here](https://www.notion.so/TERM-10a6538f55
 ---
 
 ### GitHub Stats 📊
-![Minu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minu0803&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Minu0803&theme=radical)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Minu0803&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Let's Connect 🤝
