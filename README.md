@@ -53,7 +53,6 @@ Find more details about the project [here](https://www.notion.so/TERM-10a6538f55
 
 
 ### Let's Connect 🤝
-[![Instagram](https://img.shields.io/badge/-Instagram-purple)](https://www.instagram.com/Minuffy)
 [![Email](https://img.shields.io/badge/-Naver_Email-green)](mailto:calvin08@naver.com)
 [![Email](https://img.shields.io/badge/Gmail-blue)](mailto:calvin0803@gmail.com)
 
