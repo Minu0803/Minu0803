@@ -36,9 +36,6 @@ You can also read my research Notion [here](https://receptive-muscari-3cf.notion
 **[DiffDesk (Code Comparison App)](https://github.com/Minu0803/DiffDesk)**\
 Check the code on [GitHub](https://github.com/Minu0803/DiffDesk).
 
-**[Jangbogi (Android APP)](https://github.com/Minu0803/Jangbogi)**\
-Check the code on [GitHub](https://github.com/Minu0803/Jangbogi).
-
 **[Miffy Space Shooting Game](https://github.com/Minu0803/MiffyShootingGame)**  
 Check the code on [GitHub](https://github.com/Minu0803/MiffyShootingGame).
 
